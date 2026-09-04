@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use, reference, teach, implement, or build upon 4Responsible.AI, please cite the framework using this citation."
+title: "4Responsible.AI: Human Agency Architecture for Responsible AI Workforce Adoption"
+type: generic
+authors:
+  - family-names: "Robinson"
+    given-names: "Carlton L."
+version: "1.0"
+date-released: 2026-09-04
+url: "https://4responsible.ai/"
+abstract: >-
+  4Responsible.AI is a Human Agency Architecture for Responsible AI
+  Workforce Adoption. The framework helps organizations increase artificial
+  intelligence capability while protecting human agency, preserving human
+  capability and skill, and bounding artificial intelligence authority.
+keywords:
+  - responsible AI
+  - responsible AI workforce adoption
+  - human agency
+  - human coding
+  - coevolutionary workforce
+  - agentic AI
+  - AI delegation
+  - human skill preservation
+  - AI atrophy risk
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Robinson"
+      given-names: "Carlton L."
+  title: "4Responsible.AI: Human Agency Architecture for Responsible AI Workforce Adoption"
+  year: 2026
+  url: "https://4responsible.ai/"

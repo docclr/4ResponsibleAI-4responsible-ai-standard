@@ -1,0 +1,63 @@
+## CONDITIONS + CODE Methodology
+
+The CONDITIONS + CODE Methodology operationalizes 4Responsible.AI by helping organizations intentionally design the relationship between humans and AI for a specific task, workflow, or job.
+
+Rather than beginning with the question:
+
+> What can AI automate?
+
+the methodology begins with:
+
+> What human–AI condition is most appropriate for this work, and how should the work be coded to preserve human agency?
+
+![CONDITIONS + CODE Methodology](../assets/diagrams/FoW-Conditions-CODE.png)
+
+**Figure:** CONDITIONS + CODE Methodology — Intentional Human–AI Design for Work, Workflows & the Workforce. Architect: DocCLR.
+
+### The Five-Step Process
+
+1. **Define the Work**  
+   Clarify the task, current state, desired outcome, pain points, and success metrics.
+
+2. **Select the Condition**  
+   Choose the appropriate human–AI operating condition based on complexity, risk, required human judgment, AI capability, and impact on learning and agency.
+
+3. **Human Coding**  
+   Apply CODE:
+   - **Coordinate** the human, AI, data, tools, and knowledge.
+   - **Orchestrate** the workflow and feedback loops.
+   - **Delegate** appropriate activities, authority, and execution.
+   - **Encode** learning, decisions, and reusable knowledge.
+
+4. **Execute & Compare**  
+   Run the workflow, compare human and AI contributions, measure outcomes, and gather feedback.
+
+5. **Encode & Regenerate**  
+   Preserve useful human skill, document what worked, improve the workflow, and prepare the next cycle.
+
+### The Five Conditions
+
+The model recognizes five possible conditions:
+
+- **Human-in-the-Loop**
+- **Human-Leading-the-Loop**
+- **Human-Pulls-AI-In-the-Loop**
+- **AI-Pulls-Humans-Into-the-Loop**
+- **Human Agency**
+
+These conditions reflect progressively different relationships between human authority, AI capability, automation, and organizational design.
+
+### Relevance to Increasingly Capable AI and AGI
+
+As AI systems become more capable, the central workforce-design problem shifts from tool adoption to authority and role design.
+
+CONDITIONS + CODE provides a practical mechanism for deciding:
+
+- where humans should lead;
+- where AI should assist;
+- where AI may initiate activity;
+- where authority may be delegated;
+- which human capabilities must remain encoded in the system;
+- and how workflows should evolve as AI capability increases.
+
+In this sense, CONDITIONS + CODE serves as an operational bridge between 4Responsible.AI’s Human Agency principles and increasingly agentic or AGI-level systems.
